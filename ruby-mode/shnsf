@@ -1,0 +1,4 @@
+#name : shoulda should_not_set_the_flash ...
+# --
+should_not_set_the_flash
+$0
