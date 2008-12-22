@@ -1,0 +1,4 @@
+#name : shoulda should_render_template :...
+# --
+should_render_template :${template}
+$0
