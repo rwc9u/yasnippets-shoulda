@@ -1,4 +1,4 @@
-#name : shoulda several should blocks
+#name : should "..." do ... end; shs
 # --
 should "${description}" do
   flunk

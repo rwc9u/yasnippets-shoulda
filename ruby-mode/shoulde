@@ -1,4 +1,4 @@
-#name : shoulda should_eventually block
+#name : should_eventually "..." do ... end
 # --
 should_eventually "${description}" do
   $0

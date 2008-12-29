@@ -1,4 +1,4 @@
-#name : shoulda before should block
+#name : before_should "..." do ... end
 # --
 before_should "$1" do
   $0

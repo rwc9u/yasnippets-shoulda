@@ -1,4 +1,4 @@
-#name : shoulda should block
+#name : should "..." do ... end
 # --
 should "${description}" do
   $0

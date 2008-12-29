@@ -1,4 +1,4 @@
-#name : shoulda several should eventually blocks
+#name : should_eventually "..."; shouldes
 # --
 should_eventually "${description}"
 shouldes$0

@@ -1,4 +1,4 @@
-#name : shoulda context block with setup
+#name : context "..." do ... end
 # --
 context "${description}" do
   setup do
