@@ -1,0 +1,8 @@
+#tab-trigger: shb
+#contributor : Translated from TextMate Snippet
+#name : should block with before proc
+#group : shoulda
+# --
+should "$1", :before => ${2:lambda { ${3:any_code} \}} do
+  $0
+end

@@ -1,0 +1,6 @@
+#tab-trigger: faca
+#contributor : Translated from TextMate Snippet
+#name : Factory attributes for
+#group : shoulda.factory
+# --
+Factory.attributes_for(:${1:model})

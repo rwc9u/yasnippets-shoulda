@@ -1,0 +1,6 @@
+#tab-trigger: shhns
+#contributor : Translated from TextMate Snippet
+#name : should_have_named_scope
+#group : shoulda
+# --
+should_have_named_scope :${1:scope_call}${2:, :conditions => { :${3:column} => ${4:value} \}}

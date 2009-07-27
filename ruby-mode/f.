@@ -1,0 +1,7 @@
+#tab-trigger: f.
+#contributor : Translated from TextMate Snippet
+#name : attribute
+#group : shoulda.factory
+# --
+f.${1:attribute} ${2:'${3:value}'}
+f.$0

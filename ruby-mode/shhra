@@ -1,0 +1,6 @@
+#tab-trigger: shhra
+#contributor : Translated from TextMate Snippet
+#name : should_have_readonly_attributes
+#group: shoulda
+# --
+should_have_readonly_attributes :${1:method}${2:, :${3:method}${4:, :${5:method}}}

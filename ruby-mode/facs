@@ -1,0 +1,8 @@
+#tab-trigger: facs
+#contributor : Translated from TextMate Snippet
+#name : Factory.sequence
+#group : shoulda.factory
+# --
+Factory.sequence :${1:name} do |n|
+  $0
+end

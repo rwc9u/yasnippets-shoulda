@@ -1,0 +1,6 @@
+#tab-trigger: fac
+#contributor : Translated from TextMate Snippet
+#name : Factory
+#group : shoulda.factory
+# --
+Factory(:${1:model})

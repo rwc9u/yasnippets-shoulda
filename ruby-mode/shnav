@@ -1,0 +1,6 @@
+#tab-trigger: shnav
+#contributor : Translated from TextMate Snippet
+#name : should_not_allow_values_for
+#group : shoulda
+# --
+should_not_allow_values_for :${1:attribute}, "$2"${3:, "$4"${5:, "$6"}}

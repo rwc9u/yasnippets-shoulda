@@ -1,0 +1,6 @@
+#tab-trigger: shrl
+#contributor : Translated from TextMate Snippet
+#name : should_render_with_layout
+#group : shoulda
+# --
+should_render_with_layout ${1:'${2:layout}'}
