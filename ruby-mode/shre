@@ -1,3 +1,4 @@
 #name : should_redirect_to "..."
+#group : shoulda
 # --
 should_redirect_to "${2:object}_path(@$2)"$0

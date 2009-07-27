@@ -1,3 +1,4 @@
 #name : assert_save ...
+#group : shoulda
 # --
 assert_save ${1:object}

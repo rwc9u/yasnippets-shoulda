@@ -1,3 +1,4 @@
 #name : should_assign_to ...
+#group : shoulda
 # --
 should_assign_to :${1:name}$0

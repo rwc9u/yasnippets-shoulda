@@ -1,3 +1,4 @@
 #name : assert_sent_email
+#group : shoulda
 # --
 assert_sent_email

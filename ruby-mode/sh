@@ -1,4 +1,5 @@
 #name : should "..." do ... end
+#group : shoulda
 # --
 should "${description}" do
   $0

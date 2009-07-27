@@ -1,3 +1,4 @@
 #name : assert_good_value ..., ..., ...
+#group : shoulda
 # --
 assert_good_value ${1:Model}, :${2:attribute}, ${3:value}

@@ -1,3 +1,4 @@
 #name : assert_same_elements ..., ...
+#group : shoulda
 # --
 assert_same_elements ${1:ary1}, ${2:ary2}

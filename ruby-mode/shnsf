@@ -1,4 +1,5 @@
 #name : should_not_set_the_flash
+#group : shoulda
 # --
 should_not_set_the_flash
 $0

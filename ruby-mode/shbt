@@ -1,3 +1,4 @@
 #name : should_belong_to ...
+#group : shoulda
 # --
 should_belong_to :${1:object}$0

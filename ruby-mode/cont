@@ -1,4 +1,5 @@
 #name : context "..." do ... end
+#group : shoulda
 # --
 context "${description}" do
   setup do

@@ -1,4 +1,5 @@
 #name : should "..." do ... end; shs
+#group : shoulda
 # --
 should "${description}" do
   flunk

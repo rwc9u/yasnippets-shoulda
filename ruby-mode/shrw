@@ -1,4 +1,5 @@
 #name : should_respond_with ...
+#group : shoulda
 # --
 should_respond_with :${1:success}
 $0

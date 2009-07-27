@@ -1,4 +1,5 @@
 #name : should_render_template ...
+#group : shoulda
 # --
 should_render_template :${template}
 $0
