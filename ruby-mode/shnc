@@ -1,6 +1,0 @@
-#tab-trigger: shnc
-#contributor : Translated from TextMate Snippet
-#name : should_not_change
-#group : shoulda
-# --
-should_not_change "${1:Model}.${2:count}"

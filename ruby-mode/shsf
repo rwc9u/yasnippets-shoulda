@@ -1,5 +1,0 @@
-#name : should_set_the_flash_to ...
-#group : shoulda
-# --
-should_set_the_flash_to :${1:value}
-$0

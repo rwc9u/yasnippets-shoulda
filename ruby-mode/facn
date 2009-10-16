@@ -1,6 +1,0 @@
-#tab-trigger: facn
-#contributor : Translated from TextMate Snippet
-#name : Factory.next
-#group : shoulda.factory
-# --
-Factory.next(:${1:sequence})

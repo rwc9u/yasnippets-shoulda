@@ -1,6 +1,0 @@
-#tab-trigger: facb
-#contributor : Translated from TextMate Snippet
-#name : Factory build
-#group : shoulda.factory
-# --
-Factory.build(:${1:model})

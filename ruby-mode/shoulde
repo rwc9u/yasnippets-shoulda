@@ -1,6 +1,0 @@
-#name : should_eventually "..." do ... end
-#group : shoulda
-# --
-should_eventually "${description}" do
-  $0
-end

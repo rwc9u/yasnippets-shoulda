@@ -1,9 +1,0 @@
-#name : context "..." do ... end
-#group : shoulda
-# --
-context "${description}" do
-  setup do
-    ${setup}
-  end
- sh$0
-end

@@ -1,4 +1,0 @@
-#name : assert_does_not_contain ..., ...
-#group : shoulda
-# --
-assert_does_not_contain ${1:collection}, ${2:/${3:x}/}${4:, "${5:extra_msg}"}

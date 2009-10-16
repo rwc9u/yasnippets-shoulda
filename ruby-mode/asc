@@ -1,4 +1,0 @@
-#name : assert_contains ..., ...
-#group : shoulda
-# --
-assert_contains(${1:collection}${2:, /${3:x}/}${4:, "${5:extra_msg}"})

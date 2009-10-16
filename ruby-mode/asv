@@ -1,4 +1,0 @@
-#name : assert_valid ...
-#group : shoulda
-# --
-assert_valid ${1:object}

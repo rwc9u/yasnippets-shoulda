@@ -1,4 +1,0 @@
-#name : should_require_attributes ...
-#group : shoulda
-# --
-should_require_attributes :${attribute}

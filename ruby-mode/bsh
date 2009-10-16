@@ -1,6 +1,0 @@
-#name : before_should "..." do ... end
-#group : shoulda
-# --
-before_should "$1" do
-  $0
-end

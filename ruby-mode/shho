@@ -1,6 +1,0 @@
-#tab-trigger: shho
-#contributor : Translated from TextMate Snippet
-#name : should_have_one
-#group : shoulda
-# --
-should_have_one :${1:object}${2:, :dependent => :${3:destroy}}

@@ -1,4 +1,0 @@
-#name : should_have_many ...
-#group : shoulda
-# --
-should_have_many :${1:objects}${2:${3:, :through => :${4:association}}${5:, :dependent => :${6:destroy}}}$0

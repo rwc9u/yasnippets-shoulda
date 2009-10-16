@@ -1,6 +1,0 @@
-#tab-trigger: sher
-#contributor : Translated from TextMate Snippet
-#name : should_ensure_value_in_range
-#group : shoulda
-# --
-should_ensure_value_in_range :${1:attribute}, (${2:range})
